@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+.myprofile{
+	background:rgba(255,255,255,0.7);
+	padding:20px 20px 20px 20px;
+	border-radius : 20px;
+	margin: 10px 10px 10px 10px ; 
+	}
+	
+	#img{
+		border-bottom:#c1272d dashed;
+		padding: 10px 0px 10px 0px;
+		}
+		
+
+.inline {
+	
+	padding-right: 30px;
+	padding-left: 30px;
+	border-right:#c1272d dashed;
+ }
+
+button{
+  margin-left: 100px;
+  padding-left: 100px;
+}
+
+	
+b{
+  font-size: 25px;
+  color: #999;
+}
+
+li
+{
+	list-style:none;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:25px;
+	color: #c1272d;
+	padding-bottom:5px;
+	}
+	
+	.info{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:20px;
+	color:#555;
+		}
